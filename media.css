@@ -1,0 +1,24 @@
+@media screen and (max-width: 575px) {
+
+    .nav-container, .nav-item-container{
+        flex-direction: column;
+    }
+    .nav-container{
+        box-shadow: none;
+        height: auto;
+        /* max-height: 500px;
+        margin-top: 80px; */
+        
+    }
+    .nav-item-2{
+        margin: 36px 0 62px 0;
+    }
+    .logo-container{
+        margin: 103px 0 63px 0;
+    }
+    
+}
+
+
+
+/* tablet screen */

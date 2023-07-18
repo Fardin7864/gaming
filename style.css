@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Sheared Style */
+.dflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Navbar start heare */
+.nav-container{
+    justify-content: space-around;
+    align-items: center;
+    max-width: 100vw;
+    height: 130px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.logo-container{
+
+}
+.logo-img{
+    width: 86.041px;
+    height: 40px;
+    object-fit: cover;
+}
+.logo-name{
+    width: 146px;
+    height: 53px;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+.g{
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+a{
+    text-decoration: none;
+    color: #3C354F;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 2rem;
+}
+
+.nav-item-3{
+    width: 262px;
+    height: 56px;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    color: #3C354F;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+.youtube-icon{
+    width: 33.916px;
+    height: 24px;
+    margin: 0 16px 0 24px;
+}
+.tiktok-icon{
+    width: 24px;
+    height: 24px;
+}
+
+/* Banner section */
+
+.
